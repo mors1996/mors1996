@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mors1996
-- 👀 I’m interested in computer programming, pentesting and IT in general. 
+- 👀 I’m interested in computer programming, pentesting, cyber security, networking and IT in general. 
 - 🌱 I’m currently learning API programming with Java and Spring framework. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
